@@ -1,0 +1,6 @@
+security:
+  oauth2:
+    client:
+      client-id: 944994c1-1ee2-40b4-87eb-0670f27b569c
+      client-secret: 90405b13-70ff-4da4-b9d5-8564cfca0fa4
+      registered-redirect-uri: https://www.baidu.com
